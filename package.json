@@ -1,0 +1,28 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Kristina Rud, FE 101",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KristinaRud/FE101-HW1-NPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KristinaRud/FE101-HW1-NPM/issues"
+  },
+  "homepage": "https://github.com/KristinaRud/FE101-HW1-NPM#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.11",
+    "eslint": "^8.31.0",
+    "gulp": "^4.0.2"
+  }
+}
